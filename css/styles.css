@@ -1,0 +1,17 @@
+* {
+	margin: 0 auto;
+	padding: 0px;
+}
+
+#wrapper {
+	width: 181px;
+	margin-top: 61px;
+}
+
+#sortable {
+	list-style-type: none;
+}
+
+img {
+	display: block;
+}
